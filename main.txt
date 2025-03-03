@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+nom main1
+nom main2
+=======
 plusde chats nom1
 plus de chats nom2
+>>>>>>> main
